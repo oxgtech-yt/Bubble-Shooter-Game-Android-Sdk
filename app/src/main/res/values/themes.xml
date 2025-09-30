@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.BubbleShooterPro" parent="android:Theme.Material.Light.NoActionBar" />
+
+    <!-- Splash theme leveraging AndroidX SplashScreen -->
+    <style name="Theme.BubbleShooterPro.Splash" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenAnimatedIcon">@mipmap/ic_launcher</item>
+        <item name="windowSplashScreenBackground">@color/white</item>
+        <item name="postSplashScreenTheme">@style/Theme.BubbleShooterPro</item>
+    </style>
+</resources>
