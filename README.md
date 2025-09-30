@@ -15,4 +15,4 @@ Download, open in Android Studio, customize with your own assets and AdMob IDs, 
 
 ---
 
-![Uploading Bubbel Shooter.png…]()
+<img width="1280" height="720" alt="Bubbel Shooter" src="https://github.com/user-attachments/assets/e1dc4ad3-0ace-4d62-8627-4eebc6b6eea8" />
